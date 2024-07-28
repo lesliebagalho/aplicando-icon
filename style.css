@@ -1,0 +1,21 @@
+.icon{
+    font-size: 48px;
+}
+
+.fa-facebook{
+    font-size: 36px;
+    color: blue;
+}
+
+.fa-youtube{
+    color: red;
+}
+
+.fa-google{
+    color: green;
+}
+
+.fa-docker{
+    color: blue;
+    font-size: 96px;
+}
